@@ -1,7 +1,5 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. 
-
 ### Table of Contents
 
 | No. | Questions |
